@@ -51,8 +51,10 @@ plt.show()
 ```
 
 ## Output:
+### Training set
 ![simple linear regression model for predicting the marks scored](./images/ex1.PNG)
-![simple linear regression model for predicting the marks scored](./images/ex2.PNG)
+### Test set
+![simple linear regression model for predicting the marks scored](./images/ex12.PNG)
 
 
 
